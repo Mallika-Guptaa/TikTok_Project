@@ -2,7 +2,7 @@
 
 Project goal:  
 
-The goal is to develop a machine learning model for classifying claims made in videos submitted to the platform.
+The goal is to develop a machine-learning model for classifying claims made in videos submitted to the TikTok platform.
 
 Background: 
 
